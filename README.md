@@ -1,8 +1,7 @@
-# thrashx1591
-Tools to make your RAM shine
+# Compact RAM Cleaner
 
+Small program for cleaning RAM<br>
+There is a command line argument - **silent** to start immediately in the tray
 
-
-READ ME:
-
-This is a public threshold repository and does not sustain any copyrights.
+##
+![](https://i.imgur.com/7yo9FEs.png)
