@@ -1,4 +1,4 @@
-# Compact RAM Cleaner
+# Vik's RAM Cleaner
 
 Small program for cleaning RAM<br>
 There is a command line argument - **silent** to start immediately in the tray
